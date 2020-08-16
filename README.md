@@ -10,7 +10,7 @@
         - [`hosts.txt`](hosts.txt)
         - [`only-stackoverflow.tmpl`](only-stackoverflow.tmpl)
 
-## [추가하기](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
+## [추가하기](https://subscribe.adblockplus.org/?location=https://github.com/susemeee/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
 - **테스트된 플러그인**
     - **Adguard**
